@@ -41,7 +41,7 @@
 
             Exemplos:
 
-            | autenticaçao    | estd item     | mensagem                            |
+            | usuario         |  item         | mensagem                            |
             | não autenticado | não existente | Faça login para favoritar itens     |
             | autenticado     | já existente  | Item já está na lista de desejos    |
             | autenticado     | não existente | Item adicionado na lista de desejos |
